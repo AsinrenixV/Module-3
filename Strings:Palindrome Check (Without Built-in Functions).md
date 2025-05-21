@@ -23,7 +23,8 @@ else:
 ```
 ## Output
 
-![Screenshot 2025-04-28 223902](https://github.com/user-attachments/assets/7ce781b5-d987-48dc-a8e9-495891affea5)
+![image](https://github.com/user-attachments/assets/1c590747-4d96-496d-b3c3-dc158ee0d6f8)
+
 
 ## Result
 
