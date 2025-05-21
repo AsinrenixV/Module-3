@@ -17,7 +17,8 @@ print(sum(items))
 
 ## Output
 
-![Screenshot 2025-04-28 221913](https://github.com/user-attachments/assets/99ccf546-9301-41d3-8656-cb243f0e3785)
+![image](https://github.com/user-attachments/assets/6fc78cda-88a2-4888-8afe-aee8fba47903)
+
 
 ## Result
 Thus the program executed successfully.
